@@ -31,6 +31,6 @@
 
 
 ## 강의 자료 
-- 1 (2019.01.12) - http://github.com/greendaygh/Rstat2018/blob/master/01-Rstat.pdf
-- 2 (2019.01.30) - http://github.com/greendaygh/Rstat2018/blob/master/02-Rstat.pdf
+- 1 (2019.01.12) - https://github.com/greendaygh/2019-USTOT-stat/blob/master/2019-UST-OT-stat-1.pdf
+- 2 (2019.01.30) - https://github.com/greendaygh/2019-USTOT-stat/blob/master/2019-UST-OT-stat-2.pdf
 
