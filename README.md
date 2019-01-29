@@ -8,6 +8,8 @@
 - 데이터의 기초 개념 이해
 - 데이터 분석의 기초 사고능력 배양
 - 분포의 개념을 이해
+- 데이터의 통계적 검증이 갖는 의미를 이해
+
 
 ## 참고 자료
 - Using R for Introductory Statistics by John Verzani
@@ -28,8 +30,7 @@
 - 4일차 : 분포와 통계적 추론
 
 
-
-# 강의 자료 
+## 강의 자료 
 - 1 (2019.01.12) - http://github.com/greendaygh/Rstat2018/blob/master/01-Rstat.pdf
 - 2 (2019.01.30) - http://github.com/greendaygh/Rstat2018/blob/master/02-Rstat.pdf
 
