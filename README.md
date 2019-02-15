@@ -34,3 +34,4 @@
 - 1 (2019.01.12) - https://github.com/greendaygh/2019-USTOT-stat/blob/master/2019-UST-OT-stat-1.pdf
 - 2 (2019.01.30) - https://github.com/greendaygh/2019-USTOT-stat/blob/master/2019-UST-OT-stat-2.pdf
 - 3 (2019.02.08) - https://github.com/greendaygh/2019-USTOT-stat/blob/master/2019-UST-OT-stat-3.pdf
+- 4 (2019.02.14) - https://github.com/greendaygh/2019-USTOT-stat/blob/master/2019-UST-OT-stat-4.pdf
