@@ -1,0 +1,3 @@
+tips
+
+(bioc) haseong@haseong-64server:/var/lib/MinKNOW/data/reads/20190218_1156_K2D_2nd_12samples_1R/fast5$ find ./ -type d | grep "^\\.\\/3.*" | xargs mv -t /mnt/database/reads/ont/20190218_1156_K2D_2nd_12samples_1R/fast5/ 
